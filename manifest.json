@@ -1,0 +1,38 @@
+{
+    "short_name": "Utig",
+    "name": "Utig",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "scope": "/",
+    "orientation":"portrait",
+    "background_color": "#f7f7f7",
+    "theme_color": "#c10404",
+    "splash_pages": null,
+    "icons": [
+      {
+        "src": "/assets/images/polotno.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose":"maskable"
+      },
+      {
+        "src": "/assets/images/1080x1080 (2).png",
+        "sizes": "256x256",
+        "type": "image/png"
+      },
+      {
+        "src": "/assets/images/1080x1080 (3).png",
+        "sizes": "128x128",
+        "type": "image/png"
+        
+      },
+      {
+        "src": "/assets/images/1080x1080 (4).png",
+        "sizes": "64x64",
+        "type": "image/png"
+        
+
+      }
+    ]
+    
+  }
